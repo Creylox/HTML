@@ -1,2 +1,2 @@
-# HTML
-Ejercicios HTML y CSS - OpenBootCamp
+# HTML y CSS
+OpenBootCamp / Ejercicios HTML y CSS 
